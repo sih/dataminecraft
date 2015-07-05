@@ -70,7 +70,4 @@ public final class Coordinate {
 		return xPos;
 	}
 	
-	
-	
-	
 }
